@@ -1,11 +1,11 @@
 ### Oi. Me chamo Angelo Pavani!
 
 
-- 🔭 Hoje trabalho com python
+- 🔭 Hoje trabalho com Typescript
 - 🌱 Aprendendo Django
 - ✉️ Contato: angelopav.98@gmail.com
 - 🧒 Programador Jr
-- 📖 Python, Lua, C, C#, HTML, CSS, Django
+- 📖 Javascript, Typescript ,Python, Lua, C, C#, HTML, CSS, Django
 
 
 <div align="center">
