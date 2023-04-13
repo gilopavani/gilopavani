@@ -2,10 +2,9 @@
 
 
 - 🔭 Hoje trabalho com Typescript
-- 🌱 Aprendendo Angular e node
 - ✉️ Contato: angelopav.98@gmail.com
-- 🧒 Programador Jr
-- 📖 Javascript, Typescript ,Python, Lua, C, C#, HTML, CSS, Django
+- 🧒 Programador Pleno
+- 📖 Javascript, Typescript ,Python, Lua, C, HTML, CSS, Django, Angular e node
 
 
 <div align="center">
