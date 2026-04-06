@@ -3,7 +3,7 @@
 - https://gilopavani.github.io/
 - 🔭 Hoje trabalho com Typescript
 - ✉️ Contato: angelopav.98@gmail.com
-- 🧒 Programador SE
+- 🧒 Programador Sr
 - 📖 Javascript, Typescript ,Python, Lua, C, C#, C++ HTML, CSS, Django, Angular, React, NextJS e node
 
 
