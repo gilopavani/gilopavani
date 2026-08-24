@@ -1,0 +1,23 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Angelo Pavani — Software Developer</title>
+  <desc id="desc">Banner escuro inspirado em um terminal, com detalhes em ciano e violeta.</desc>
+  <defs>
+    <linearGradient id="background" x1="30" y1="20" x2="1170" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#070B14"/><stop offset="0.52" stop-color="#0B1220"/><stop offset="1" stop-color="#111027"/></linearGradient>
+    <linearGradient id="accent" x1="260" y1="60" x2="930" y2="275" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(165 82) rotate(24) scale(390 235)"><stop stop-color="#06B6D4" stop-opacity="0.2"/><stop offset="1" stop-color="#06B6D4" stop-opacity="0"/></radialGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1090 305) rotate(-151) scale(390 235)"><stop stop-color="#8B5CF6" stop-opacity="0.18"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.055"/></pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#000000" flood-opacity="0.38"/></filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/><rect width="1200" height="320" rx="24" fill="url(#cyanGlow)"/><rect width="1200" height="320" rx="24" fill="url(#violetGlow)"/><rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="23.25" stroke="url(#accent)" stroke-opacity="0.42" stroke-width="1.5"/>
+  <g opacity="0.62"><path d="M0 246C164 208 277 284 437 244C596 205 729 191 864 226C1003 263 1096 241 1200 206" stroke="url(#accent)" stroke-opacity="0.16"/><path d="M0 269C160 231 290 302 446 264C601 226 738 212 876 248C1002 280 1101 266 1200 232" stroke="url(#accent)" stroke-opacity="0.09"/></g>
+  <g filter="url(#shadow)"><rect x="72" y="48" width="1056" height="224" rx="16" fill="#070B12" fill-opacity="0.78"/><rect x="72.75" y="48.75" width="1054.5" height="222.5" rx="15.25" stroke="#CBD5E1" stroke-opacity="0.12" stroke-width="1.5"/></g>
+  <circle cx="102" cy="76" r="6" fill="#FB7185"/><circle cx="124" cy="76" r="6" fill="#FBBF24"/><circle cx="146" cy="76" r="6" fill="#34D399"/>
+  <text x="600" y="81" text-anchor="middle" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">angelo@github: ~/profile</text><path d="M73 101H1127" stroke="#CBD5E1" stroke-opacity="0.1"/>
+  <text x="112" y="139" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="600">$ whoami</text>
+  <text x="112" y="194" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="44" font-weight="800" letter-spacing="2">ANGELO PAVANI</text>
+  <text x="114" y="232" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19">// senior software developer · typescript · web · automation</text>
+  <rect x="1051" y="215" width="3" height="20" rx="1.5" fill="#22D3EE" filter="url(#glow)"/><path d="M1000 237H1080" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/><path d="M1022 216L1042 226L1022 236" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
