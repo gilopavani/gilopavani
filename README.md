@@ -67,12 +67,8 @@ Desenvolvedor de software com foco em **TypeScript** e no ecossistema web. Gosto
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gilopavani&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&ring_color=22D3EE&include_all_commits=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=gilopavani&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=7C3AED&text_color=334155&ring_color=0891B2&include_all_commits=true" alt="Estatísticas do GitHub" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gilopavani&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=C9D1D9&langs_count=8" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilopavani&layout=compact&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=334155&langs_count=8" alt="Linguagens mais usadas" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilopavani&theme=tokyonight" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilopavani&theme=github" alt="Resumo da atividade de Angelo Pavani no GitHub" />
   </picture>
 </div>
 
