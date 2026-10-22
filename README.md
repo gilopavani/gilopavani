@@ -75,7 +75,7 @@ Engenheiro de software com mais de 4 anos construindo **aplicações web, mobile
 | :--- | :--- | :--- |
 | **[Gather Controller](https://github.com/gilopavani/gather-ctl)** | Userscript com painel de controle, inspeção de eventos e automações via WebSocket no Gather.town. | `JavaScript` `WebSocket` `esbuild` |
 | **[Portfólio](https://github.com/gilopavani/gilopavani.github.io)** | Meu site pessoal com experiência, stack e projetos. | `Astro` `HTML` `CSS` |
-| **[Shopper Test](https://github.com/gilopavani/shopper_test)** | Teste técnico full stack realizado para a Shopper (front-end + back-end). | `TypeScript` `Docker` |
+| **[Shopper Test](https://github.com/gilopavani/shopper_test)** | Teste técnico full stack realizado para a Shopper (React + Express + Google Maps API). | `TypeScript` `React` `Express` `Docker` |
 | **[LazyVim](https://github.com/gilopavani/lazyvim)** | Meu ambiente de desenvolvimento no Neovim. | `Lua` `Neovim` |
 
 > 💼 A maior parte do meu trabalho é em repositórios privados de empresas e clientes — por isso o gráfico de contribuições inclui atividade privada (anonimizada).
